@@ -38,7 +38,7 @@ ASCII_CHARS = " .,:;irsXA253hMHGS#9B&@"
 SVG_WIDTH = 900
 SVG_HEIGHT = 900
 
-BACKGROUND = "#3B4651"
+BACKGROUND = "#111827"
 ASCII_COLOR = "#E5E5E5"
 
 # Portrait area inside SVG
@@ -58,14 +58,14 @@ PORTRAIT_H = 760
 # then next row
 # then LEFT -> RIGHT
 #
-CHAR_DELAY = 0.0006
+CHAR_DELAY = 0.0001
 
 # Small pause between rows.
-ROW_DELAY = 0.012
+ROW_DELAY = 0.002
 
 # Individual character fade-in.
-FADE_DURATION = 0.06
-CHAR_STEP = 0.009
+FADE_DURATION = 0.02
+CHAR_STEP = 0.003
 
 # ============================================================
 # BACKGROUND REMOVAL
