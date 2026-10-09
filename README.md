@@ -1,7 +1,10 @@
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"/>
-  </a>
+ <a>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+     width="40"
+     alt="LinkedIn" /> 
+ </a>
+  
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
