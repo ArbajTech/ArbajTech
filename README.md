@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="./ArbajTech/generated/ascii.svg" alt="ASCII Animation" width="700">
-</p>git 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"/>
+  </a>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub" />
-
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
+  </a>
+</p>
 I'm a BCA student interested in Software Development, Web Development, Python, and AI/ML.
 
 - 🌱 Currently learning programming and software development
