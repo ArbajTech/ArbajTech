@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArbajTech/ArbajTech/main/ArbajTech/generated/ascii.svg" alt="ASCII Portrait Animation" width="700">
+</p>
 👋 Hi, I'm ArbajTech
 
 <p align="center">
