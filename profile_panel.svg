@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="1200"
+     viewBox="0 0 900 1200">
+
+  <rect width="900" height="1200" fill="#111827"/>
+
+  <g font-family="Arial, Helvetica, sans-serif"
+     fill="#E5E5E5" text-anchor="middle">
+
+    <text x="450" y="80" font-size="30" font-weight="bold">
+      ARBAJ | DEVELOPER
+    </text>
+
+    <text x="450" y="135" font-size="22">
+      ASCII PORTRAIT
+    </text>
+
+    <text x="450" y="190" font-size="19">
+      Software Development | Web Development
+    </text>
+
+    <line x1="70" y1="230" x2="830" y2="230"
+          stroke="#82909C" stroke-width="2"/>
+
+    <text x="450" y="290" font-size="32" font-weight="bold">
+      About Me
+    </text>
+
+    <text x="450" y="345" font-size="21">
+      BCA Student
+    </text>
+
+    <text x="450" y="385" font-size="20">
+      Learning programming and software development
+    </text>
+
+    <text x="450" y="425" font-size="20">
+      Building useful and creative projects
+    </text>
+
+    <text x="450" y="465" font-size="20">
+      Exploring AI tools and automation
+    </text>
+
+    <line x1="70" y1="510" x2="830" y2="510"
+          stroke="#82909C" stroke-width="2"/>
+
+    <text x="450" y="570" font-size="32" font-weight="bold">
+      Tech Stack
+    </text>
+
+    <text x="450" y="625" font-size="22">
+      Python | C | HTML | CSS
+    </text>
+
+    <text x="450" y="670" font-size="22">
+      JavaScript | Git | GitHub | VS Code
+    </text>
+
+    <line x1="70" y1="720" x2="830" y2="720"
+          stroke="#82909C" stroke-width="2"/>
+
+    <text x="450" y="785" font-size="32" font-weight="bold">
+      Connect With Me
+    </text>
+
+    <a href="https://github.com/ArbajTech">
+      <rect x="300" y="825" width="300" height="65"
+            rx="12" fill="#202A33"
+            stroke="#E5E5E5" stroke-width="2"/>
+
+      <text x="450" y="866" font-size="23">
+        GitHub Profile
+      </text>
+    </a>
+
+  </g>
+</svg>
