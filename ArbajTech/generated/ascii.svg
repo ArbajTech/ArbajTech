@@ -6,13 +6,7 @@
     height="900"
     viewBox="0 0 900 900">
 
-    <rect
-        x="0"
-        y="0"
-        width="900"
-        height="900"
-        fill="#111827"/>
-
+   
     <g
         font-family="Consolas, 'Courier New', monospace"
         font-size="9px"
