@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="ARBAJ007's GitHub profile" src="dark_mode.svg" />
-</picture>
+<img src="./dark_mode.svg" alt="My ASCII GitHub Profile" width="100%">
 I'm a BCA student interested in Software Development, Web Development, Python, and AI/ML.
 
 - 🌱 Currently learning programming and software development
